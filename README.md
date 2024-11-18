@@ -19,6 +19,7 @@
       1. hugo-site/public/
       2. hugo-site/resources/_gen/
    2. .github/workflows/gh-pages
+      1. Make sure settings for gh-pages and actions are correct.
    3. Badge for workflow
 7. Add new content
    1. `hugo new content <SECTIONNAME>/<FILENAME>.<FORMAT>`
