@@ -1,3 +1,6 @@
+# A blog I can run from a github codespace
+[![Deploy Hugo site to GitHub Pages](https://github.com/fyordan/blog-from-codespace/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/fyordan/blog-from-codespace/actions/workflows/gh-pages.yml)
+
 ## Steps taken to reproduce this project
 
 1. Created a Codespace in github to be able to run these commands on the cloud.
@@ -13,6 +16,10 @@
    2. `git submodule add https://github.com/rhazdon/hugo-theme-hello-friend-ng.git themes/hello-friend-ng`
 6. Commit to git
    1. Make sure .gitignore will ignore the files you do not care about.
+      1. hugo-site/public/
+      2. hugo-site/resources/_gen/
+   2. .github/workflows/gh-pages
+   3. Badge for workflow
 7. Add new content
    1. `hugo new content <SECTIONNAME>/<FILENAME>.<FORMAT>`
    2. `hugo server --buildDrafts`
