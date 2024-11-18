@@ -33,3 +33,9 @@
    3. `tar -xzf hugo_extended_<latest-version>_Linux-64bit.tar.gz`
    4. `sudo mv hugo /usr/local/bin/`
    5. `cd .. && rm -r tmp`
+
+### Recommended plugins for vscode
+1. Vim
+2. GitHub Actions
+3. Hugo Language and Syntax Support
+4. Markdown All in One
