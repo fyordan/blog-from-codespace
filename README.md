@@ -22,3 +22,14 @@
    3. [ ] Migrate content from wordpress
    4. [ ] Set up DNS in Namecheap
    5. [ ] Create new themes
+
+### Installing hugo+extended+withdeploy in codespaces
+1. Find the release version in the official github [here](https://github.com/gohugoio/hugo/releases)
+2. Find your architecture using `sudo uname -i`
+3. Remove old versions of hugo (use `which hugo` to find the existing one)
+4. Based on architecture and version number, run the following commands:
+   1. `mkdir tmp && cd tmp`
+   2. `wget https://github.com/gohugoio/hugo/releases/download/v<latest-version>/hugo_extended_<latest-version>_Linux-64bit.tar.gz`
+   3. `tar -xzf hugo_extended_<latest-version>_Linux-64bit.tar.gz`
+   4. `sudo mv hugo /usr/local/bin/`
+   5. `cd .. && rm -r tmp`
