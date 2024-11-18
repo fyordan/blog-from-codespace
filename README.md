@@ -25,11 +25,12 @@
    1. `hugo new content <SECTIONNAME>/<FILENAME>.<FORMAT>`
    2. `hugo server --buildDrafts`
 8. TODO:
-   1. [ ] Set github actions for drafts and final releases
-   2. [ ] Confirm that I am able to add new content and preview from Ipad
+   1. [X] Set github actions for releases
+   2. [X] Confirm that I am able to add new content and preview from Ipad
    3. [ ] Migrate content from wordpress
-   4. [ ] Set up DNS in Namecheap
-   5. [ ] Create new themes
+   4. [X] Set up DNS in Namecheap
+   5. [ ] Deploy "preview" branches
+   6. [ ] Create new themes
 
 ### Installing hugo+extended+withdeploy in codespaces
 1. Find the release version in the official github [here](https://github.com/gohugoio/hugo/releases)
