@@ -15,8 +15,8 @@ paginate     = 10
   enableSharingButtons = true
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
-  keywords = "homepage, blog"
+  description = "A homepage, blog, and portfolio for Fernando Yordan LLC, a company for software development and fractional cto services."
+  keywords = "homepage, blog, cto, software, devops, ai, developer, engineer"
   images = [""]
 
 [taxonomies]
@@ -29,3 +29,23 @@ paginate     = 10
 name = "Blog"
 url = "/posts/"
 weight = 1
+
+[[menu.main]]
+name = "Services"
+url = "/services"
+weight = 2
+
+[[menu.main]]
+name = "Contact"
+url = "/contact"
+weight = 3
+
+[[menu.main]]
+name = "Privacy"
+url = "/privacy"
+weight = 4
+
+[[menu.main]]
+name = "Terms"
+url = "/toc"
+weight = 5
