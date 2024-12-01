@@ -4,7 +4,7 @@ languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
 
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+# copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -42,7 +42,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   [params.footer]
     trademark = 2024
     rss = true
-    copyright = true
+    # copyright = true
     author = true
 
     topText = []
