@@ -4,6 +4,8 @@ languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
 
+ # copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
@@ -19,33 +21,59 @@ paginate     = 10
   keywords = "homepage, blog, cto, software, devops, ai, developer, engineer"
   images = [""]
 
+  [params.author]
+    name = "Fernando Yordan"
+
+  [params.logo]
+    logoMark     = ">"
+    logoText     = "Fernando Yordan LLC"
+    logoHomeLink = "/"
+
+  [[params.social]]
+    name = "email"
+    url = "mailto:fernando@yordan.llc"
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/fyordan"
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/fernando-yordan-lopez"
+
+  [params.footer]
+    trademark = 2024
+    rss = true
+    copyright = true
+    author = true
+
+    topText = []
+    bottomText = [
+      "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
+      "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
+    ]
+
 [taxonomies]
   category = "blog"
   tag      = "tags"
   series   = "series"
 
-
-[[menu.main]]
-name = "Blog"
-url = "/posts/"
-weight = 1
-
-[[menu.main]]
-name = "Services"
-url = "/services"
-weight = 2
-
-[[menu.main]]
-name = "Contact"
-url = "/contact"
-weight = 3
-
-[[menu.main]]
-name = "Privacy"
-url = "/privacy"
-weight = 4
-
-[[menu.main]]
-name = "Terms"
-url = "/toc"
-weight = 5
+[menu]
+  [[menu.main]]
+    identifier = "a-about"
+    name       = "About"
+    url        = "about/"
+  [[menu.main]]
+    identifier = "a-blog"
+    name       = "Blog"
+    url        = "posts/"
+  [[menu.main]]
+    identifier = "b-services"
+    name       = "Services"
+    url        = "services/"
+  [[menu.main]]
+    identifier = "c-contact"
+    name       = "Contact"
+    url        = "contact/"
+  [[menu.main]]
+    identifier = "d-legalese"
+    name       = "Legalese"
+    url        = "legalese/"
