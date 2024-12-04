@@ -27,7 +27,7 @@
 8. TODO:
    1. [X] Set github actions for releases
    2. [X] Confirm that I am able to add new content and preview from Ipad
-   3. [ ] Migrate content from wordpress
+   3. [x] Migrate content from wordpress
    4. [X] Set up DNS in Namecheap
    5. [ ] Deploy "preview" branches
    6. [ ] Create new themes
