@@ -1,6 +1,6 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on A blog from code space</title><link>https://yordan.llc/posts/</link><description>Recent content in Posts on A blog from code space</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 23 Nov 2024 02:45:28 +0000</lastBuildDate><atom:link href="https://yordan.llc/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World</title><link>https://yordan.llc/posts/hello-world/</link><pubDate>Sat, 23 Nov 2024 02:45:28 +0000</pubDate><guid>https://yordan.llc/posts/hello-world/</guid><description>&lt;p>This is my first post.
-Only meant to show I can
-write a simple blog.&lt;/p></description><content type="html">&lt;p>This is my first post.
-Only meant to show I can
-write a simple blog.&lt;/p>
-</content></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on A blog from code space</title><link>https://yordan.llc/posts/</link><description>Recent content in Posts on A blog from code space</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 23 Nov 2024 02:45:28 +0000</lastBuildDate><atom:link href="https://yordan.llc/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World</title><link>https://yordan.llc/posts/hello-world/</link><pubDate>Sat, 23 Nov 2024 02:45:28 +0000</pubDate><guid>https://yordan.llc/posts/hello-world/</guid><description>&lt;p>This is my first post.&lt;/p>
+&lt;p>Only meant to show I can&lt;/p>
+&lt;p>write a simple blog.&lt;/p></description><content type="html"><![CDATA[<p>This is my first post.</p>
+<p>Only meant to show I can</p>
+<p>write a simple blog.</p>
+]]></content></item></channel></rss>
