@@ -75,10 +75,6 @@ disable404     = false
     name       = "Services"
     url        = "services/"
   [[menu.main]]
-    identifier = "c-contact"
-    name       = "Contact"
-    url        = "contact/"
-  [[menu.main]]
     identifier = "d-legalese"
     name       = "Legalese"
     url        = "legalese/"
