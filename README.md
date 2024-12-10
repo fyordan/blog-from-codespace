@@ -1,4 +1,4 @@
-# A blog I can run from a github codespace
+# [A blog I can run from a github codespace](https://yordan.llc)
 [![Deploy Hugo site to GitHub Pages](https://github.com/fyordan/blog-from-codespace/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/fyordan/blog-from-codespace/actions/workflows/gh-pages.yml)
 
 ## Steps taken to reproduce this project
