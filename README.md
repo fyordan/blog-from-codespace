@@ -1,6 +1,9 @@
 # [A blog I can run from a github codespace](https://yordan.llc)
 [![Deploy Hugo site to GitHub Pages](https://github.com/fyordan/blog-from-codespace/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/fyordan/blog-from-codespace/actions/workflows/gh-pages.yml)
 
+## Known Issues
+* RSS Feed is not working
+
 ## Steps taken to reproduce this project
 
 1. Created a Codespace in github to be able to run these commands on the cloud.
@@ -48,3 +51,9 @@
 2. GitHub Actions
 3. Hugo Language and Syntax Support
 4. Markdown All in One
+
+## Reproducing on nix
+1. System-wide dependency: git
+2. Project dependencies in shell.nix
+3. Needs to run `git submodule update --init --recursive`
+4. Can run `hugo server -D` after running `nix-shell` on root
