@@ -2,7 +2,7 @@
 title: "Working Agreements and Why I won't Return to Office"
 description: "My personal and professional reasons why I work remotely."
 date: 2024-12-24T09:53:32-05:00
-draft: false
+draft: true
 images:
 type:
   - posts

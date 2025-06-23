@@ -2,7 +2,6 @@ baseurl      = "https://yordan.llc"
 title        = "A blog from code space"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
-paginate     = 10
 
 disableRSS     = false
 disableSitemap = false
