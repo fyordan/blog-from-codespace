@@ -2,7 +2,6 @@
 [![Deploy Hugo site to GitHub Pages](https://github.com/fyordan/blog-from-codespace/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/fyordan/blog-from-codespace/actions/workflows/gh-pages.yml)
 
 ## Known Issues
-* RSS Feed is not working
 
 ## Steps taken to reproduce this project
 
