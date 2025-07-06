@@ -4,16 +4,34 @@ date = 2024-11-23T02:46:33Z
 draft = false
 +++
 
-By requesting services from Fernando Yordan LLC the customer sequentially agrees to the terms in this document. Fernando Yordan LLC is a company that provides professional services in the form of consultancy and software development. The scope of work can be different for each client and each project, and as such the customer agrees to review any documentation detailing the scope of work and costs associated with each project before commencing work. Fernando Yordan LLC will not seek compensation for any consultation, quote, discovery, or interview labeled as free, but will require signature and agreement of terms before commencing billable work.
+**1. Acceptance of Terms**
 
-Billing and payment terms can differ based on the client and project, but will be agreed upon by both Fernando Yordan LLC and the customer before commencing billable work.
+By requesting or engaging in services provided by Fernando Yordan LLC ("we," "us," or "our"), you ("the Client") hereby agree to be bound by the terms and conditions set forth in this document. Fernando Yordan LLC offers professional services encompassing software consultancy and development.
 
-Fernando Yordan LLC will not seek compensation for work performed outside of the specified agreement. In the case of providing an estimate, Fernando Yordan LLC will inform the client if the work will exceed the estimate and seek approval before continuing billable work. Fernando Yordan LLC reserves the right to give discounts to customers or change rates of future projects outside of any existing agreement.
+**2. Scope of Work and Project Commencement**
 
-Fernando Yordan LLC will do a best effort to ensure deliverables are high quality and inform the customer of any risks that Fernando Yordan LLC perceives as is the best interest of the customer. If the deliverable cannot be achieved as specified in the contract, Fernando Yordan LLC will inform the client and attempt to renegotiate the contract, if no agreement can be reached then Fernando Yordan LLC will not seek payment for any milestones not completed in the contract even if paid in advance.
+The scope of work for each client and project may vary. Accordingly, the Client agrees to thoroughly review all documentation detailing the scope of work, associated costs, and project timelines before the commencement of any services. Fernando Yordan LLC will not seek compensation for consultations, quotes, discovery sessions, or interviews explicitly designated as free. Billable work will only commence upon mutual agreement and signature of a formal engagement document.
 
-Fernando Yordan LLC will not outsource any work without approval of the customer, and in general the customer will communicate directly with the developer / consultant performing the work.
+**3. Billing and Payment**
 
-The customer agrees to act in good faith and provide the necessary information to allow the fulfillment of any agreed upon contract.
+Billing and payment terms will be mutually agreed upon by Fernando Yordan LLC and the Client prior to the initiation of any billable work. These terms may vary based on the specific client and project requirements.
 
-Fernando Yordan LLC will inform the customer of any potential conflicts of interests and reserves the right to deny service to any customer if said service would jeopardise obligations to other clients or for compliance reasons to any relevant authority.
+**4. Project Estimates and Compensation**
+
+Fernando Yordan LLC will not seek compensation for work performed outside the parameters of the agreed-upon scope. In the event that project work is anticipated to exceed a previously provided estimate, Fernando Yordan LLC will promptly inform the Client and seek explicit approval before continuing billable work. Fernando Yordan LLC reserves the right to offer discounts to clients or adjust rates for future projects, independent of any existing agreements.
+
+**5. Quality Assurance and Risk Management**
+
+Fernando Yordan LLC is committed to delivering high-quality deliverables and will exercise its best efforts to achieve this. We will proactively inform the Client of any perceived risks that may impact the project's success, acting in the Client's best interest. Should a deliverable, as specified in the contract, become unachievable, Fernando Yordan LLC will inform the Client and attempt to renegotiate the contract. If a mutual agreement cannot be reached, Fernando Yordan LLC will not seek payment for any uncompleted milestones, even if advance payments have been received.
+
+**6. Subcontracting and Communication**
+
+Fernando Yordan LLC will not outsource any work without the explicit approval of the Client. Generally, the Client will maintain direct communication with the developer or consultant performing the work.
+
+**7. Client Responsibilities**
+
+The Client agrees to act in good faith and provide all necessary information and cooperation required for the successful fulfillment of any agreed-upon contract.
+
+**8. Conflict of Interest and Right to Refuse Service**
+
+Fernando Yordan LLC will inform the Client of any potential conflicts of interest. We reserve the right to decline services to any prospective client if such service would jeopardize our obligations to other clients or if it conflicts with compliance requirements of any relevant authority.

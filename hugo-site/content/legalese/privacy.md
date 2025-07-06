@@ -4,8 +4,22 @@ date = 2024-11-23T02:46:14Z
 draft = false
 +++
 
-Fernando Yordan LLC respects the customer's privacy and their sensitive data. Fernando Yordan LLC will only use information provided to them in order to serve the customer providing said information. In the case information needs to be shared in order to perform services, Fernando Yordan LLC will seek authorization to do so beforehand. Fernando Yordan LLC will not seek any information that is not necessary to perform or improve their services.
+**1. Introduction**
 
-Any information sent to Fernando Yordan LLC via the contact form, including the sender's name, email, business information and content will not be used for any purpose other than responding to said email. Fernando Yordan LLC will not send any unsolicited emails for marketing purposes or transfer the data to external parties unless otherwise authorized to do so by the original sender. Fernando Yordan LLC may contact the original sender to provide any updates to the privacy policy or terms of service.
+Fernando Yordan LLC ("we," "us," or "our") is committed to protecting the privacy and sensitive data of its clients and website visitors ("you" or "your"). This Privacy Policy outlines our practices regarding the collection, use, and disclosure of your information.
 
-Any information shared via email, meetings, consultations, or necessary for project development is treated as private information owned by the customer and will not be shared with external parties. In the case that Fernando Yordan LLC would want to include testimonials or examples of deliverables in their promotional materials, Fernando Yordan LLC will request permission to do so beforehand.
+**2. Information Collection and Use**
+
+We collect information solely for the purpose of providing and improving our consulting and software development services. We will only use the information you provide to us to fulfill our obligations to you.
+
+**3. Disclosure of Information**
+
+We will not share your information with external parties unless we have obtained your explicit prior authorization, or if required by law. In instances where sharing information is necessary to perform services, we will seek your consent beforehand. We will not solicit any information that is not essential for the provision or enhancement of our services.
+
+**4. Contact Form Submissions**
+
+Any information submitted to Fernando Yordan LLC via our contact form, including but not limited to your name, email address, business information, and message content, will be used exclusively for the purpose of responding to your inquiry. We do not send unsolicited marketing emails, nor do we transfer such data to third parties without your express consent. We may, however, contact you to provide updates regarding our Privacy Policy or Terms of Service.
+
+**5. Confidentiality of Project-Related Information**
+
+All information shared with Fernando Yordan LLC through email, meetings, consultations, or that is necessary for project development, shall be treated as confidential and proprietary information owned by you. Such information will not be disclosed to external parties. Should we wish to include testimonials or examples of deliverables in our promotional materials, we will seek your explicit written permission prior to any such use.
