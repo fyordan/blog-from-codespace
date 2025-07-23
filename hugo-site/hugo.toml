@@ -11,6 +11,8 @@ disable404     = false
   [services.rss]
       # Maximum number of items in the RSS feed.
       limit = 42
+  [services.googleAnalytics]
+    id = "G-GV71RKST64"
 
 [params]
   dateform        = "Jan 2, 2006"
